@@ -62,19 +62,19 @@ public class DataPlotter : MonoBehaviour
         //Loop through Pointlist
         for (var i = 0; i < pointList.Count; i++)
         {
-            /*// Get value in poinList at ith "row", in "column" Name, normalize
+            // Get value in poinList at ith "row", in "column" Name, normalize
             float x = 
                 (System.Convert.ToSingle(pointList[i][xName]) - xMin) / (xMax - xMin);
  
             float y = 
                 (System.Convert.ToSingle(pointList[i][yName]) - yMin) / (yMax - yMin);
  
-            float z = 
-                (System.Convert.ToSingle(pointList[i][zName]) - zMin) / (zMax - zMin);
-            */
+            //float z = 
+               // (System.Convert.ToSingle(pointList[i][zName]) - zMin) / (zMax - zMin);
+            
             // Get value in poinList at ith "row", in "column" Name
-            float x = System.Convert.ToSingle(pointList[i][xName]);
-            float y = System.Convert.ToSingle(pointList[i][yName]);
+           // float x = System.Convert.ToSingle(pointList[i][xName]);
+            //float y = System.Convert.ToSingle(pointList[i][yName]);
             float z = System.Convert.ToSingle(pointList[i][zName]);
             //instantiate the prefab with coordinates defined above
             // Instantiate as gameobject variable so that it can be manipulated within loop
