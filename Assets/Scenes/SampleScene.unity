@@ -241,7 +241,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   plotScale: 10
-  inputfile: test
+  inputfile: QuickSortResults
   columnX: 0
   columnY: 1
   columnZ: 2
