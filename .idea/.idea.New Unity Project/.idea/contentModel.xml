@@ -11,6 +11,7 @@
         <e p="BubbleSort.cs" t="Include" />
         <e p="CSVReader.cs" t="Include" />
         <e p="DataPlotter.cs" t="Include" />
+        <e p="QuickSort.cs" t="Include" />
         <e p="SampleScenes" t="Include">
           <e p="Menu" t="Include">
             <e p="Scripts" t="Include">

@@ -1,8 +1,13 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
 using System;
+using System.IO;
 using System.Diagnostics;
-namespace Application
-{
-    public class QuickSortAlgorithm
+using Debug = UnityEngine.Debug;
+using Random = System.Random;
+//namespace Application
+public class QuickSortAlgorithm : MonoBehaviour
     {
         public QuickSortAlgorithm()
         {
@@ -94,4 +99,4 @@ namespace Application
             
         }
     }
-}
+

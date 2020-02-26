@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="909db89a-401f-4c35-bebc-bac99d0f7949" name="Default Changelist" comment="fix sample scene?">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/QuickSort.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/QuickSort.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,11 +21,13 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/DataPlotter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/QuickSort.cs.meta" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Sphere.prefab" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/CSVReader.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/SampleScenes/Menu/Scripts/SceneAndURLLoader.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/BubbleSort.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/QuickSort.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -32,6 +36,7 @@
         <option value="$PROJECT_DIR$/Assets/CSVReader.cs" />
         <option value="$PROJECT_DIR$/Assets/BubbleSort.cs" />
         <option value="$PROJECT_DIR$/Assets/DataPlotter.cs" />
+        <option value="$PROJECT_DIR$/Assets/QuickSort.cs" />
       </list>
     </option>
   </component>
@@ -88,7 +93,7 @@
       <workItem from="1582259181995" duration="1080000" />
       <workItem from="1582260801129" duration="1164000" />
       <workItem from="1582520806447" duration="388000" />
-      <workItem from="1582749568588" duration="559000" />
+      <workItem from="1582749568588" duration="791000" />
     </task>
     <task id="LOCAL-00001" summary="gitignore update">
       <created>1582739766089</created>
@@ -118,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582749739159</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added meta">
+      <created>1582750180209</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1582750180209</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,7 +156,8 @@
     <MESSAGE value="update csv bubblesort" />
     <MESSAGE value="fix data plotter" />
     <MESSAGE value="Fix camera size" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix camera size" />
+    <MESSAGE value="added meta" />
+    <option name="LAST_COMMIT_MESSAGE" value="added meta" />
   </component>
   <component name="WindowStateProjectService">
     <state x="666" y="397" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582750155361">
