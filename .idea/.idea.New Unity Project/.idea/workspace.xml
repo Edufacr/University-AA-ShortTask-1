@@ -2,12 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="909db89a-401f-4c35-bebc-bac99d0f7949" name="Default Changelist" comment="fix sample scene?">
-      <change beforePath="$PROJECT_DIR$/Assets/BubbleSort.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BubbleSort.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sphere.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sphere.prefab" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="New Unity Project" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -15,6 +21,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/DataPlotter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Sphere.prefab" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/CSVReader.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/SampleScenes/Menu/Scripts/SceneAndURLLoader.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/BubbleSort.cs" root0="FORCE_HIGHLIGHTING" />
@@ -24,8 +31,8 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/Test.cs" />
         <option value="$PROJECT_DIR$/Assets/CSVReader.cs" />
-        <option value="$PROJECT_DIR$/Assets/DataPlotter.cs" />
         <option value="$PROJECT_DIR$/Assets/BubbleSort.cs" />
+        <option value="$PROJECT_DIR$/Assets/DataPlotter.cs" />
       </list>
     </option>
   </component>
@@ -83,6 +90,28 @@
       <workItem from="1582260801129" duration="1164000" />
       <workItem from="1582520806447" duration="388000" />
     </task>
+    <task id="LOCAL-00001" summary="gitignore update">
+      <created>1582739766089</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582739766089</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update csv bubblesort">
+      <created>1582740844688</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582740844688</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fix data plotter">
+      <created>1582741498729</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1582741498729</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,5 +129,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="gitignore update" />
+    <MESSAGE value="update csv bubblesort" />
+    <MESSAGE value="fix data plotter" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix data plotter" />
   </component>
 </project>
